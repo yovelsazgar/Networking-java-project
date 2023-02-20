@@ -1,5 +1,5 @@
 # Networking-java-project
-General Description
+General Description:
 The world cup is upon us, and you want to stay updated. Thus, in this assignment, you will implement a ”community-led” world cup update subscription
 service. Users can subscribe to a game channel and report and receive reports
 about the game to and from the other subscribed users.
